@@ -23,11 +23,11 @@
 
 ## 📂 Projetos
 
-### ☕ Fundamentos Java Script
+### ☕ Fundamentos JavaScript
 
 | Projeto                  | Descrição                                            |
 | ------------------------ | ---------------------------------------------------- |
-| Calculadora Java Script  | Operações matemáticas básicas utilizando Java Script |
+| Calculadora JavaScript   | Operações matemáticas básicas utilizando JavaScript  |
 | Sistema Bancário         | Simulação de depósitos, saques e consulta de saldo   |
 | Cadastro de Alunos       | Cadastro e cálculo de médias dos estudantes          |
 
@@ -49,7 +49,7 @@
 
 ## 📈 Objetivos
 
-* Aprofundar conhecimentos em Java Script e Backend.
+* Aprofundar conhecimentos em JavaScript e Backend.
 * Aprender Spring Boot.
 * Desenvolver projetos cada vez mais completos.
 * Conquistar a primeira oportunidade na área de tecnologia.
