@@ -23,13 +23,13 @@
 
 ## 📂 Projetos
 
-### ☕ Fundamentos Java
+### ☕ Fundamentos Java Script
 
-| Projeto            | Descrição                                          |
-| ------------------ | -------------------------------------------------- |
-| Calculadora Java   | Operações matemáticas básicas utilizando Java      |
-| Sistema Bancário   | Simulação de depósitos, saques e consulta de saldo |
-| Cadastro de Alunos | Cadastro e cálculo de médias dos estudantes        |
+| Projeto                  | Descrição                                            |
+| ------------------------ | ---------------------------------------------------- |
+| Calculadora Java Script  | Operações matemáticas básicas utilizando Java Script |
+| Sistema Bancário         | Simulação de depósitos, saques e consulta de saldo   |
+| Cadastro de Alunos       | Cadastro e cálculo de médias dos estudantes          |
 
 ### 📚 Lógica e Estruturas de Dados
 
@@ -49,7 +49,7 @@
 
 ## 📈 Objetivos
 
-* Aprofundar conhecimentos em Java e Backend.
+* Aprofundar conhecimentos em Java Script e Backend.
 * Aprender Spring Boot.
 * Desenvolver projetos cada vez mais completos.
 * Conquistar a primeira oportunidade na área de tecnologia.
