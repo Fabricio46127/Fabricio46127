@@ -1,16 +1,60 @@
-## Hi there 👋
+# Olá, eu sou Fabrício Franco 👋
 
-<!--
-**Fabricio46127/Fabricio46127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Desenvolvimento de Sistemas, morando em Salvador/BA.
 
-Here are some ideas to get you started:
+💻 Atualmente estudando desenvolvimento backend, lógica de programação, Node.js, hardware, software e redes de computadores. Buscando desenvolver projetos práticos e construir experiência para ingressar na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+**Linguagens**
+
+* JavaScript
+
+**Ferramentas**
+
+* VS Code
+
+**Conhecimentos**
+
+* Lógica de Programação
+* Programação Orientada a Objetos (POO)
+* Hardware de Computadores
+* Sistemas Operacionais
+
+## 📂 Projetos
+
+### ☕ Fundamentos Java
+
+| Projeto            | Descrição                                          |
+| ------------------ | -------------------------------------------------- |
+| Calculadora Java   | Operações matemáticas básicas utilizando Java      |
+| Sistema Bancário   | Simulação de depósitos, saques e consulta de saldo |
+| Cadastro de Alunos | Cadastro e cálculo de médias dos estudantes        |
+
+### 📚 Lógica e Estruturas de Dados
+
+| Projeto                 | Descrição                                |
+| ----------------------- | ---------------------------------------- |
+| Gerenciador de Estoque  | Controle de produtos e quantidades       |
+| Controle de Despesas    | Organização de gastos por categorias     |
+| Sistema de Funcionários | Cadastro e gerenciamento de funcionários |
+
+### 🌱 Em Desenvolvimento
+
+| Projeto                   | Descrição                                             |
+| ------------------------- | ----------------------------------------------------- |
+| API REST em Node.js       | Estudos sobre criação de APIs                         |
+| Projetos com Git e GitHub | Versionamento e colaboração                           |
+| Projetos Backend          | Aplicação dos conceitos aprendidos durante os estudos |
+
+## 📈 Objetivos
+
+* Aprofundar conhecimentos em Java e Backend.
+* Aprender Spring Boot.
+* Desenvolver projetos cada vez mais completos.
+* Conquistar a primeira oportunidade na área de tecnologia.
+
+## 📫 Contato
+
+* GitHub: https://github.com/Fabricio46127
+* LinkedIn: https://www.linkedin.com/in/fabr%C3%ADcio-kauan-444756241/
